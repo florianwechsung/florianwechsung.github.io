@@ -5,18 +5,14 @@
     <link>https://florianwechsung.github.io/</link>
     <description>Recent content on Florian Wechsung</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    
-	<atom:link href="https://florianwechsung.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-uk</language><atom:link href="https://florianwechsung.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>https://florianwechsung.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://florianwechsung.github.io/publications/</guid>
-      <description>Submitted Fireshape: a shape optimization toolbox for Firedrake, Alberto Paganini, Florian Wechsung.
+      <description>Submitted Single-stage gradient-based stellarator coil design: Optimization for near-axis quasi-symmetry, Andrew Giuliani, Florian Wechsung, Antoine Cerfon, Georg Stadler, Matt Landreman.
 Shape optimisation for faster washout in recirculating flows, Jessica G. Williams, Florian Wechsung, Ben W. Turney, Sarah L. Waters, Derek E. Moulton.
 A Reynolds-robust preconditioner for the Reynolds-robust Scott-Vogelius discretization of the stationary incompressible Navier-Stokes equations, Patrick E Farrell, Lawrence Mitchell, L Ridgway Scott, Florian Wechsung.
 Augmented Lagrangian preconditioners for the Oseen-Frank model of cholesteric liquid crystals, Jingmin Xia, Patrick E Farrell, Florian Wechsung.</description>

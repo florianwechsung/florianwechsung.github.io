@@ -5,10 +5,6 @@
     <link>https://florianwechsung.github.io/tags/</link>
     <description>Recent content in Tags on Florian Wechsung</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    
-	<atom:link href="https://florianwechsung.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-uk</language><atom:link href="https://florianwechsung.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
