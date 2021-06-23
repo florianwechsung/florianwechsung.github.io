@@ -12,10 +12,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://florianwechsung.github.io/publications/</guid>
-      <description>Submitted Single-stage gradient-based stellarator coil design: Optimization for near-axis quasi-symmetry, Andrew Giuliani, Florian Wechsung, Antoine Cerfon, Georg Stadler, Matt Landreman.
-A Reynolds-robust preconditioner for the Reynolds-robust Scott-Vogelius discretization of the stationary incompressible Navier-Stokes equations, Patrick E Farrell, Lawrence Mitchell, L Ridgway Scott, Florian Wechsung.
-Robust multigrid methods for nearly incompressible elasticity using macro elements, Patrick E Farrell, Lawrence Mitchell, L Ridgway Scott, Florian Wechsung.
-PCPATCH: software for the topological construction of multigrid relaxation methods, Patrick E Farrell, Matthew G Knepley, Florian Wechsung, Lawrence Mitchell.</description>
+      <description>Submitted Single-stage gradient-based stellarator coil design: stochastic optimization, Florian Wechsung, Andrew Giuliani, Antoine Cerfon, Georg Stadler, Matt Landreman.
+SIMSOPT: A flexible framework for stellarator optimization, Matt Landreman, Bharat Medasani, Florian Wechsung, Andrew Giuliani, Rogerio Jorge, and Caoxiang Zhu.
+Single-stage gradient-based stellarator coil design: Optimization for near-axis quasi-symmetry, Andrew Giuliani, Florian Wechsung, Antoine Cerfon, Georg Stadler, Matt Landreman.
+Robust multigrid methods for nearly incompressible elasticity using macro elements, Patrick E Farrell, Lawrence Mitchell, L Ridgway Scott, Florian Wechsung.</description>
     </item>
     
     <item>
@@ -24,7 +24,8 @@ PCPATCH: software for the topological construction of multigrid relaxation metho
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://florianwechsung.github.io/teaching/</guid>
-      <description>Spring term 2019, Tutor for Mathematical Models of Financial Derivatives, University of Oxford.
+      <description>Spring term 2021, Lecturer for Numerical Analysis, New York University.
+Spring term 2019, Tutor for Mathematical Models of Financial Derivatives, University of Oxford.
 Fall term 2017, Instructor for Modelling, analysis and computation of continuous real world problems, University of Oxford.
 Spring term 2017, Teaching assistant for Mathematical Models of Financial Derivatives, University of Oxford.
 Fall term 2016, Teaching assistant for Viscous Flow, University of Oxford.
